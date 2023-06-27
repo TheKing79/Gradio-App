@@ -1,4 +1,4 @@
-virtimport gradio as gr
+import gradio as gr
 import pandas as pd
 import joblib
 from sklearn.pipeline import Pipeline
